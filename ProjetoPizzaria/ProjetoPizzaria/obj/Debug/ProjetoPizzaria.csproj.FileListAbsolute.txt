@@ -1,0 +1,11 @@
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\obj\Debug\ProjetoPizzaria.csprojAssemblyReference.cache
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\obj\Debug\ProjetoPizzaria.Frm_MdiInicio.resources
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\obj\Debug\ProjetoPizzaria.Formulario.Frm_CadCliente.resources
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\obj\Debug\ProjetoPizzaria.Properties.Resources.resources
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\obj\Debug\ProjetoPizzaria.csproj.GenerateResource.cache
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\obj\Debug\ProjetoPizzaria.csproj.CoreCompileInputs.cache
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\bin\Debug\ProjetoPizzaria.exe.config
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\bin\Debug\ProjetoPizzaria.exe
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\bin\Debug\ProjetoPizzaria.pdb
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\obj\Debug\ProjetoPizzaria.exe
+C:\Users\cpagar\source\repos\bfaisca\ProjetoC-\ProjetoPizzaria\ProjetoPizzaria\obj\Debug\ProjetoPizzaria.pdb
